@@ -1,7 +1,7 @@
 # Workflow to ensure whenever a Github PR is submitted, 
 # a JIRA ticket gets created automatically. 
 name: Manual Workflow
-
+# CHANGING TO TRIGGER ACTIONS RUN
 # Controls when the action will run. 
 on:
   # Triggers the workflow on pull request events but only for the master branch
